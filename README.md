@@ -1,4 +1,4 @@
-Copy directories to project root.
+Copy directories to project root:
 
 * **clean** for cleaning project temporary files
 * **deploy** for re-deploy project
