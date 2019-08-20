@@ -9,7 +9,7 @@ back.sh - apply to backend part of the project.
 
 front.sh - apply to frontend part of the project.
 
-To enable scripts execution:
+To enable scripts execution (from the root):
 ```bash
 sudo chmod +x -R clean deploy
 ```
@@ -20,5 +20,5 @@ To clean/deploy project (from the root):
 ```
 For example:
 ```bash
-./delpoy/back.sh
+./deploy/back.sh
 ```
