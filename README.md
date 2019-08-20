@@ -22,3 +22,5 @@ For example:
 ```bash
 ./deploy/back.sh
 ```
+
+You can also choose files location by yourself and run them in accordance with it.
